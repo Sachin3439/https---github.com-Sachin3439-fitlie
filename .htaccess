@@ -1,0 +1,40 @@
+# Enable URL rewriting
+RewriteEngine On
+
+# Set base directory
+RewriteBase /
+
+# Redirect to HTTPS (uncomment if using HTTPS)
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Handle 404 errors
+ErrorDocument 404 /404.php
+
+# Protect sensitive files
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Protect config directory
+<FilesMatch "^(config|includes)/">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Allow PHP files to be accessed directly
+<FilesMatch "\.php$">
+    Order allow,deny
+    Allow from all
+</FilesMatch>
+
+# Prevent directory listing
+Options -Indexes
+
+# Set default character set
+AddDefaultCharset UTF-8
+
+# Enable PHP error logging
+php_flag log_errors on
+php_value error_log php_errors.log 

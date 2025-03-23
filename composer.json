@@ -1,0 +1,17 @@
+{
+    "name": "nabaj/new",
+    "autoload": {
+        "psr-4": {
+            "Nabaj\\New\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sachin3439",
+            "email": "nabajyotirout12@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

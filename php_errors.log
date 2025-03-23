@@ -1,0 +1,370 @@
+[17-Mar-2025 09:06:04 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 09:06:28 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 09:10:39 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 09:10:40 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 09:10:41 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 09:16:10 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 09:16:11 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 09:16:12 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 09:17:27 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 09:17:28 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 09:17:28 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 09:17:28 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[17-Mar-2025 15:24:16 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[19-Mar-2025 06:19:43 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[19-Mar-2025 06:21:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\new\config\database.php:13
+Stack trace:
+#0 C:\xampp\htdocs\new\config\database.php(13): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'fitlife_db')
+#1 C:\xampp\htdocs\new\login.php(3): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\new\config\database.php on line 13
+[19-Mar-2025 06:21:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\new\config\database.php:13
+Stack trace:
+#0 C:\xampp\htdocs\new\config\database.php(13): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'fitlife_db')
+#1 C:\xampp\htdocs\new\login.php(3): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\new\config\database.php on line 13
+[19-Mar-2025 06:22:17 Europe/Berlin] Database connection error: Unknown database 'fitlife_db'
+[19-Mar-2025 06:22:26 Europe/Berlin] Database connection error: Unknown database 'fitlife_db'
+[19-Mar-2025 06:22:26 Europe/Berlin] Database connection error: Unknown database 'fitlife_db'
+[19-Mar-2025 06:22:26 Europe/Berlin] Database connection error: Unknown database 'fitlife_db'
+[19-Mar-2025 06:23:02 Europe/Berlin] Database connection error: Unknown database 'fitlife_db'
+[19-Mar-2025 06:24:58 Europe/Berlin] Database connection error: Unknown database 'fitlife_db'
+[19-Mar-2025 10:51:54 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[19-Mar-2025 10:51:55 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[19-Mar-2025 10:51:55 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[19-Mar-2025 10:51:55 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\process-diet.php on line 80
+[19-Mar-2025 11:03:29 Europe/Berlin] Diet plan creation error: Unknown column 'plan_name' in 'field list'
+[19-Mar-2025 11:03:33 Europe/Berlin] Diet plan creation error: Unknown column 'plan_name' in 'field list'
+[19-Mar-2025 11:05:37 Europe/Berlin] Received POST data: Array
+(
+    [plan_name] => Intermittent Fasting
+    [calories] => 1000
+    [protein] => 200
+    [carbs] => 15
+    [fats] => 14
+)
+
+[19-Mar-2025 11:05:37 Europe/Berlin] Diet plan creation error: Unknown column 'plan_name' in 'field list'
+[19-Mar-2025 11:51:09 Europe/Berlin] PHP Warning:  Undefined variable $workoutCount in C:\xampp\htdocs\new\dashboard.php on line 151
+[19-Mar-2025 11:51:09 Europe/Berlin] PHP Warning:  Undefined variable $exerciseCount in C:\xampp\htdocs\new\dashboard.php on line 159
+[19-Mar-2025 11:51:09 Europe/Berlin] PHP Warning:  Undefined variable $streak in C:\xampp\htdocs\new\dashboard.php on line 167
+[19-Mar-2025 11:54:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.user_diet_plans' doesn't exist in C:\xampp\htdocs\new\dashboard.php:184
+Stack trace:
+#0 C:\xampp\htdocs\new\dashboard.php(184): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\dashboard.php on line 184
+[19-Mar-2025 11:55:18 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.user_diet_plans' doesn't exist in C:\xampp\htdocs\new\dashboard.php:184
+Stack trace:
+#0 C:\xampp\htdocs\new\dashboard.php(184): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\dashboard.php on line 184
+[19-Mar-2025 11:55:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.user_diet_plans' doesn't exist in C:\xampp\htdocs\new\dashboard.php:184
+Stack trace:
+#0 C:\xampp\htdocs\new\dashboard.php(184): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\dashboard.php on line 184
+[19-Mar-2025 11:56:22 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.user_diet_plans' doesn't exist in C:\xampp\htdocs\new\dashboard.php:184
+Stack trace:
+#0 C:\xampp\htdocs\new\dashboard.php(184): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\dashboard.php on line 184
+[19-Mar-2025 11:56:23 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.user_diet_plans' doesn't exist in C:\xampp\htdocs\new\dashboard.php:184
+Stack trace:
+#0 C:\xampp\htdocs\new\dashboard.php(184): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\dashboard.php on line 184
+[19-Mar-2025 11:56:24 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.user_diet_plans' doesn't exist in C:\xampp\htdocs\new\dashboard.php:184
+Stack trace:
+#0 C:\xampp\htdocs\new\dashboard.php(184): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\dashboard.php on line 184
+[19-Mar-2025 11:56:24 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.user_diet_plans' doesn't exist in C:\xampp\htdocs\new\dashboard.php:184
+Stack trace:
+#0 C:\xampp\htdocs\new\dashboard.php(184): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\dashboard.php on line 184
+[19-Mar-2025 11:56:25 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.user_diet_plans' doesn't exist in C:\xampp\htdocs\new\dashboard.php:184
+Stack trace:
+#0 C:\xampp\htdocs\new\dashboard.php(184): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\dashboard.php on line 184
+[19-Mar-2025 11:56:46 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.user_diet_plans' doesn't exist in C:\xampp\htdocs\new\dashboard.php:184
+Stack trace:
+#0 C:\xampp\htdocs\new\dashboard.php(184): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\dashboard.php on line 184
+[19-Mar-2025 12:00:37 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'order clause' in C:\xampp\htdocs\new\dashboard.php:251
+Stack trace:
+#0 C:\xampp\htdocs\new\dashboard.php(251): PDO->prepare('SELECT * FROM b...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\dashboard.php on line 251
+[19-Mar-2025 12:09:29 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\forgot-password.php on line 48
+[19-Mar-2025 12:09:36 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\forgot-password.php on line 48
+[19-Mar-2025 12:11:52 Europe/Berlin] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 4
+[19-Mar-2025 12:11:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 4
+[19-Mar-2025 12:19:07 Europe/Berlin] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 11
+[19-Mar-2025 12:19:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 11
+[19-Mar-2025 12:28:12 Europe/Berlin] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 9
+[19-Mar-2025 12:28:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 9
+[19-Mar-2025 12:28:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in C:\xampp\htdocs\new\forgot-password.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 12
+[19-Mar-2025 12:28:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\SMTP" not found in C:\xampp\htdocs\new\forgot-password.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 15
+[19-Mar-2025 12:34:41 Europe/Berlin] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 4
+[19-Mar-2025 12:34:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 4
+[19-Mar-2025 12:35:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in C:\xampp\htdocs\new\forgot-password.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 41
+[19-Mar-2025 12:35:20 Europe/Berlin] PHP Warning:  Undefined variable $mail in C:\xampp\htdocs\new\forgot-password.php on line 45
+[19-Mar-2025 12:35:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function isSMTP() on null in C:\xampp\htdocs\new\forgot-password.php:45
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 45
+[19-Mar-2025 12:36:48 Europe/Berlin] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 4
+[19-Mar-2025 12:36:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 4
+[19-Mar-2025 12:37:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in C:\xampp\htdocs\new\forgot-password.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 41
+[19-Mar-2025 12:39:17 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\new\forgot-password.php on line 63
+[19-Mar-2025 12:43:02 Europe/Berlin] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 4
+[19-Mar-2025 12:43:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 4
+[20-Mar-2025 11:11:11 Europe/Berlin] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 4
+[20-Mar-2025 11:11:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 4
+[20-Mar-2025 16:32:15 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\new\forgot-password.php on line 3
+[20-Mar-2025 16:32:15 Europe/Berlin] PHP Warning:  require(C:\xampp\htdocs\new/database.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 11
+[20-Mar-2025 16:32:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\new/database.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 11
+[20-Mar-2025 16:32:18 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\new\forgot-password.php on line 3
+[20-Mar-2025 16:32:18 Europe/Berlin] PHP Warning:  require(C:\xampp\htdocs\new/database.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 11
+[20-Mar-2025 16:32:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\new/database.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 11
+[20-Mar-2025 16:32:18 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\new\forgot-password.php on line 3
+[20-Mar-2025 16:32:18 Europe/Berlin] PHP Warning:  require(C:\xampp\htdocs\new/database.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 11
+[20-Mar-2025 16:32:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\new/database.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 11
+[20-Mar-2025 16:41:05 Europe/Berlin] PHP Warning:  Undefined variable $error in C:\xampp\htdocs\new\forgot-password.php on line 73
+[20-Mar-2025 16:41:05 Europe/Berlin] PHP Warning:  Undefined variable $success in C:\xampp\htdocs\new\forgot-password.php on line 77
+[20-Mar-2025 16:43:15 Europe/Berlin] PHP Warning:  require(C:\xampp\htdocs\new/database.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 18
+[20-Mar-2025 16:43:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\new/database.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 18
+[20-Mar-2025 16:59:42 Europe/Berlin] PHP Warning:  Undefined variable $mysqli in C:\xampp\htdocs\new\forgot-password.php on line 20
+[20-Mar-2025 17:03:37 Europe/Berlin] PHP Warning:  Undefined variable $mysqli in C:\xampp\htdocs\new\forgot-password.php on line 31
+[20-Mar-2025 17:03:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\new\forgot-password.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 31
+[20-Mar-2025 17:04:24 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.user' doesn't exist in C:\xampp\htdocs\new\forgot-password.php:31
+Stack trace:
+#0 C:\xampp\htdocs\new\forgot-password.php(31): PDO->prepare('UPDATE user SET...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 31
+[20-Mar-2025 17:06:35 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.user' doesn't exist in C:\xampp\htdocs\new\forgot-password.php:31
+Stack trace:
+#0 C:\xampp\htdocs\new\forgot-password.php(31): PDO->prepare('UPDATE user SET...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 31
+[20-Mar-2025 17:08:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in C:\xampp\htdocs\new\forgot-password.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 34
+[20-Mar-2025 17:13:31 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: PDOStatement::bindParam(): Argument #3 ($type) must be of type int, string given in C:\xampp\htdocs\new\forgot-password.php:34
+Stack trace:
+#0 C:\xampp\htdocs\new\forgot-password.php(34): PDOStatement->bindParam('sss', '305b922ecbb3a24...', '2025-03-20 17:4...', 'careerladder202...')
+#1 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 34
+[20-Mar-2025 17:16:27 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in C:\xampp\htdocs\new\forgot-password.php:34
+Stack trace:
+#0 C:\xampp\htdocs\new\forgot-password.php(34): PDOStatement->bindParam(':token_hash', 'd057bdc9dbfbad7...', 2)
+#1 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 34
+[20-Mar-2025 17:22:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in C:\xampp\htdocs\new\forgot-password.php:34
+Stack trace:
+#0 C:\xampp\htdocs\new\forgot-password.php(34): PDOStatement->bindParam(':token_hash', '2636575350b2937...', 2)
+#1 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 34
+[20-Mar-2025 17:23:02 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in C:\xampp\htdocs\new\forgot-password.php:34
+Stack trace:
+#0 C:\xampp\htdocs\new\forgot-password.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 34
+[20-Mar-2025 17:34:01 Europe/Berlin] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 3
+[20-Mar-2025 17:34:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 3
+[20-Mar-2025 17:48:17 Europe/Berlin] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\new\forgot-password.php on line 3
+[20-Mar-2025 17:48:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new\forgot-password.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 3
+[21-Mar-2025 06:24:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in C:\xampp\htdocs\new\forgot-password.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 41
+[21-Mar-2025 06:25:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in C:\xampp\htdocs\new\forgot-password.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 41
+[21-Mar-2025 06:25:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in C:\xampp\htdocs\new\forgot-password.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 41
+[21-Mar-2025 06:40:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in C:\xampp\htdocs\new\forgot-password.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 41
+[21-Mar-2025 06:40:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in C:\xampp\htdocs\new\forgot-password.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\new\forgot-password.php on line 41
+[21-Mar-2025 07:34:49 Europe/Berlin] Token: 7a6cc87d9f8ce7458e0efcef15308b353b93cec024cd7e04408e5c925a09aff9
+[21-Mar-2025 07:34:49 Europe/Berlin] Now: 2025-03-21 07:34:49
+[21-Mar-2025 07:34:49 Europe/Berlin] No valid token found or expired.
+[21-Mar-2025 07:35:22 Europe/Berlin] Token: 19ff6f8c79203023a4c1223175b1c36c8810c048ffdd5b02e6e1ae994a2b497b
+[21-Mar-2025 07:35:22 Europe/Berlin] Now: 2025-03-21 07:35:22
+[21-Mar-2025 07:35:22 Europe/Berlin] No valid token found or expired.
+[21-Mar-2025 07:35:40 Europe/Berlin] Token: 19ff6f8c79203023a4c1223175b1c36c8810c048ffdd5b02e6e1ae994a2b497b
+[21-Mar-2025 07:35:40 Europe/Berlin] Now: 2025-03-21 07:35:40
+[21-Mar-2025 07:35:40 Europe/Berlin] No valid token found or expired.
+[21-Mar-2025 07:41:00 Europe/Berlin] Token: 19ff6f8c79203023a4c1223175b1c36c8810c048ffdd5b02e6e1ae994a2b497b
+[21-Mar-2025 07:41:00 Europe/Berlin] Now: 2025-03-21 07:41:00
+[21-Mar-2025 07:41:00 Europe/Berlin] No valid token found or expired.
+[21-Mar-2025 07:41:22 Europe/Berlin] Token: c009deb82ded22b99cefc04ee35cdf94aa11929dc4d362be2bd329277249a2d3
+[21-Mar-2025 07:41:22 Europe/Berlin] Now: 2025-03-21 07:41:22
+[21-Mar-2025 07:41:22 Europe/Berlin] No valid token found or expired.
+[21-Mar-2025 07:45:20 Europe/Berlin] Token: c009deb82ded22b99cefc04ee35cdf94aa11929dc4d362be2bd329277249a2d3
+[21-Mar-2025 07:45:20 Europe/Berlin] Now: 2025-03-21 08:45:20
+[21-Mar-2025 07:45:20 Europe/Berlin] No valid token found or expired.
+[21-Mar-2025 07:45:54 Europe/Berlin] Token: ff71076cd40e60700251881ef5c6dda9f929c164829ff3a47a816bf8f6bdbd54
+[21-Mar-2025 07:45:54 Europe/Berlin] Now: 2025-03-21 08:45:54
+[21-Mar-2025 07:45:54 Europe/Berlin] No valid token found or expired.
+[21-Mar-2025 07:55:01 Europe/Berlin] Token: 7fdac8594209a08388e4c5b0bde0769437e161d62bd49f5e870416b6b9b75fb3
+[21-Mar-2025 07:55:01 Europe/Berlin] Now: 2025-03-21 08:55:01
+[21-Mar-2025 07:55:01 Europe/Berlin] No valid token found or expired.
+[21-Mar-2025 08:30:06 Europe/Berlin] Token: d5896f743c4f75bb9e475537e92fbc9ad05540a53e6b6f707b67d92e45f36075
+[21-Mar-2025 08:30:06 Europe/Berlin] Now: 2025-03-21 09:30:06
+[21-Mar-2025 08:30:06 Europe/Berlin] No valid token found or expired.
+[21-Mar-2025 08:30:22 Europe/Berlin] Token: d5896f743c4f75bb9e475537e92fbc9ad05540a53e6b6f707b67d92e45f36075
+[21-Mar-2025 08:30:22 Europe/Berlin] Now: 2025-03-21 09:30:22
+[21-Mar-2025 08:30:22 Europe/Berlin] No valid token found or expired.
+[21-Mar-2025 08:39:41 Europe/Berlin] Token: d5896f743c4f75bb9e475537e92fbc9ad05540a53e6b6f707b67d92e45f36075
+[21-Mar-2025 08:39:41 Europe/Berlin] Now: 2025-03-21 09:39:41
+[21-Mar-2025 08:39:41 Europe/Berlin] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reset_expires' in 'field list'
+[21-Mar-2025 08:40:27 Europe/Berlin] Token: 588971a877270173f8d756f8b4beed83989ee28558f53d68c530a3fad91cde1d
+[21-Mar-2025 08:40:27 Europe/Berlin] Now: 2025-03-21 09:40:27
+[21-Mar-2025 08:40:27 Europe/Berlin] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reset_expires' in 'field list'
+[21-Mar-2025 08:58:09 Europe/Berlin] Token: ed04b4063850678c6af0bc08782bd206fcec7810d3904b7b64c10c2226ff2e38
+[21-Mar-2025 08:58:09 Europe/Berlin] Now: 2025-03-21 09:58:09
+[21-Mar-2025 08:58:09 Europe/Berlin] PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reset_expires' in 'field list'
+[21-Mar-2025 08:59:59 Europe/Berlin] Token: 5f51bc908e63b949d063431edf1a5a71e23184ab873fcafc46e8df8ed368359c
+[21-Mar-2025 08:59:59 Europe/Berlin] Now: 2025-03-21 09:59:59
+[21-Mar-2025 08:59:59 Europe/Berlin] PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reset_expires' in 'where clause'
+[21-Mar-2025 09:00:03 Europe/Berlin] Token: 5f51bc908e63b949d063431edf1a5a71e23184ab873fcafc46e8df8ed368359c
+[21-Mar-2025 09:00:03 Europe/Berlin] Now: 2025-03-21 10:00:03
+[21-Mar-2025 09:00:03 Europe/Berlin] PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reset_expires' in 'where clause'
+[21-Mar-2025 09:00:04 Europe/Berlin] Token: 5f51bc908e63b949d063431edf1a5a71e23184ab873fcafc46e8df8ed368359c
+[21-Mar-2025 09:00:04 Europe/Berlin] Now: 2025-03-21 10:00:04
+[21-Mar-2025 09:00:04 Europe/Berlin] PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reset_expires' in 'where clause'
+[21-Mar-2025 09:00:04 Europe/Berlin] Token: 5f51bc908e63b949d063431edf1a5a71e23184ab873fcafc46e8df8ed368359c
+[21-Mar-2025 09:00:04 Europe/Berlin] Now: 2025-03-21 10:00:04
+[21-Mar-2025 09:00:04 Europe/Berlin] PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reset_expires' in 'where clause'
+[21-Mar-2025 09:01:02 Europe/Berlin] Token: 6ec3c97597d218d44372aec45613a7940509f045af98c5409f847da026a20ad2
+[21-Mar-2025 09:01:02 Europe/Berlin] Now: 2025-03-21 10:01:02
+[21-Mar-2025 09:01:02 Europe/Berlin] Valid token found for: careerladder2025@gmail.com
+[21-Mar-2025 09:01:15 Europe/Berlin] Token: 6ec3c97597d218d44372aec45613a7940509f045af98c5409f847da026a20ad2
+[21-Mar-2025 09:01:15 Europe/Berlin] Now: 2025-03-21 10:01:15
+[21-Mar-2025 09:01:15 Europe/Berlin] Valid token found for: careerladder2025@gmail.com
+[21-Mar-2025 14:26:02 Europe/Berlin] PHP Warning:  Undefined array key "user_id" in C:\xampp\htdocs\new\dashboard.php on line 42
+[22-Mar-2025 07:00:33 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\new\exercise-tips.php on line 140
+[22-Mar-2025 07:01:20 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\new\exercise-tips.php on line 140
+[22-Mar-2025 07:21:50 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:21:58 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:21:59 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:22:14 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:23:01 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:23:01 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:23:01 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:23:04 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:23:06 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:23:06 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:23:07 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:23:54 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:24:46 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:24:46 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:24:46 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:25:18 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:25:18 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:25:19 Europe/Berlin] Missing required tables: diet_plans, exercise_progress
+[22-Mar-2025 07:28:41 Europe/Berlin] Token: 56a002b506d914b4527c77cde3b5089445881a7241b7e131513312e62e80e6c6
+[22-Mar-2025 07:28:41 Europe/Berlin] Now: 2025-03-22 08:28:41
+[22-Mar-2025 07:28:41 Europe/Berlin] Valid token found for: careerladder2025@gmail.com
+[22-Mar-2025 07:28:56 Europe/Berlin] Token: 56a002b506d914b4527c77cde3b5089445881a7241b7e131513312e62e80e6c6
+[22-Mar-2025 07:28:56 Europe/Berlin] Now: 2025-03-22 08:28:56
+[22-Mar-2025 07:28:56 Europe/Berlin] Valid token found for: careerladder2025@gmail.com
+[22-Mar-2025 07:35:35 Europe/Berlin] Token: bf5b3676a508114a73b80ff9adf3eb6c37e11005f39fbe6e3c8b2f5aa54e4c41
+[22-Mar-2025 07:35:35 Europe/Berlin] Now: 2025-03-22 08:35:35
+[22-Mar-2025 07:35:35 Europe/Berlin] Valid token found for: careerladder2025@gmail.com
+[22-Mar-2025 07:35:48 Europe/Berlin] Token: bf5b3676a508114a73b80ff9adf3eb6c37e11005f39fbe6e3c8b2f5aa54e4c41
+[22-Mar-2025 07:35:48 Europe/Berlin] Now: 2025-03-22 08:35:48
+[22-Mar-2025 07:35:48 Europe/Berlin] Valid token found for: careerladder2025@gmail.com
+[22-Mar-2025 07:35:48 Europe/Berlin] PDO Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.password_resets' doesn't exist
+[22-Mar-2025 07:37:46 Europe/Berlin] Token: bf5b3676a508114a73b80ff9adf3eb6c37e11005f39fbe6e3c8b2f5aa54e4c41
+[22-Mar-2025 07:37:46 Europe/Berlin] Now: 2025-03-22 08:37:46
+[22-Mar-2025 07:37:46 Europe/Berlin] Valid token found for: careerladder2025@gmail.com
+[22-Mar-2025 07:52:09 Europe/Berlin] Token: bf5b3676a508114a73b80ff9adf3eb6c37e11005f39fbe6e3c8b2f5aa54e4c41
+[22-Mar-2025 07:52:09 Europe/Berlin] Now: 2025-03-22 08:52:09
+[22-Mar-2025 07:52:09 Europe/Berlin] Valid token found for: careerladder2025@gmail.com
+[23-Mar-2025 06:35:07 Europe/Berlin] Missing required tables: diet_plans
+[23-Mar-2025 06:36:00 Europe/Berlin] Missing required tables: diet_plans
+[23-Mar-2025 06:36:00 Europe/Berlin] Missing required tables: diet_plans
+[23-Mar-2025 06:36:00 Europe/Berlin] Missing required tables: diet_plans
+[23-Mar-2025 06:36:04 Europe/Berlin] Missing required tables: diet_plans
+[23-Mar-2025 07:09:50 Europe/Berlin] Exercise fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.exercise_progress' doesn't exist
+[23-Mar-2025 07:10:09 Europe/Berlin] Exercise fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.exercise_progress' doesn't exist
+[23-Mar-2025 07:21:28 Europe/Berlin] Exercise fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.exercise_progress' doesn't exist
+[23-Mar-2025 07:21:28 Europe/Berlin] Exercise fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.exercise_progress' doesn't exist
+[23-Mar-2025 07:36:02 Europe/Berlin] Exercise fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.exercise_progress' doesn't exist
+[23-Mar-2025 07:36:58 Europe/Berlin] Diet plan fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.diet_plans' doesn't exist
+[23-Mar-2025 07:36:58 Europe/Berlin] Exercise fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.exercise_progress' doesn't exist
+[23-Mar-2025 07:37:10 Europe/Berlin] Diet plan fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.diet_plans' doesn't exist
+[23-Mar-2025 07:37:10 Europe/Berlin] Exercise fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.exercise_progress' doesn't exist
+[23-Mar-2025 07:45:29 Europe/Berlin] Diet plan fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.diet_plans' doesn't exist
+[23-Mar-2025 07:45:29 Europe/Berlin] Exercise fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.exercise_progress' doesn't exist
+[23-Mar-2025 07:45:32 Europe/Berlin] Diet plan fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.diet_plans' doesn't exist
+[23-Mar-2025 07:45:32 Europe/Berlin] Exercise fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fitness_db.exercise_progress' doesn't exist
